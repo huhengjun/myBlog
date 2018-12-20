@@ -1,0 +1,20 @@
+.copy {
+	text-align: center;
+	background:#4A245E;
+	padding: 1em;
+}
+.copy p {
+	color: #fff;
+	font-size: 0.9em;
+}
+.copy p a {
+	color: #F26649;
+}
+.copy p a:hover{
+    text-decoration: underline;
+}
+.nav a:hover {
+	color: #ff7f21;
+	font-size: 16px;
+	font-weight: bold;
+}
